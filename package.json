@@ -1,7 +1,7 @@
 {
   "name": "interactive-3d-room",
   "version": "0.0.0",
-  "description": "An interactive 3D room scene",
+  "description": "An interactive 3D room scene on a browser.",
   "license": "MIT",
   "scripts": {
     "dev": "vite",

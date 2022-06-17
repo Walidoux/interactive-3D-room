@@ -14,6 +14,7 @@ Challenge inspired by Roman Klčo's 3D illustration design [Room inspiration in 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
+- [Contribution](#contribution)
 
 ## Overview
 
@@ -56,6 +57,10 @@ Getting to know more about solid's possibilities rather than depending on react.
 
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article that helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
+## Contribution
+
+If you'd like to contribute, you'll have to make a copy of the `.env` file and rename it to `.env.local`.
 
 ## Author
 
