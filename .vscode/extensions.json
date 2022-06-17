@@ -4,6 +4,7 @@
     "esbenp.prettier-vscode",
     "stylelint.vscode-stylelint",
     "mrmlnc.vscode-scss",
-    "dbaeumer.vscode-eslint"
+    "dbaeumer.vscode-eslint",
+    "bernardogualberto.solidjs"
   ]
 }
