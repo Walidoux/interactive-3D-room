@@ -3,12 +3,14 @@
     "target": "ESNext",
     "module": "ESNext",
     "moduleResolution": "node",
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
     "jsx": "preserve",
-    "jsxImportSource": "solid-js",
-    "types": ["vite/client"],
     "noEmit": true,
-    "isolatedModules": true
+    "esModuleInterop": true,
+    "strictNullChecks": true,
+    "isolatedModules": true,
+    "allowSyntheticDefaultImports": true,
+    "jsxImportSource": "solid-js",
+    "plugins": [{ "name": "typescript-plugin-css-modules" }],
+    "types": ["vite/client"]
   }
 }
