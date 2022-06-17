@@ -4,7 +4,6 @@ About: "If something isn't working as expected \U0001F914."
 Title: ''
 Labels: 'i: bug, i: needs triage'
 Assignees: ''
-
 ---
 
 ## Bug Report
@@ -40,6 +39,7 @@ A clear and concise description of what you expected to happen (or code).
 - How you are using Babel: [e.g. `cli`, `register`, `loader`]
 
 **Possible Solution**
+
 <!--- Only if you have suggestions on a fix for the bug -->
 
 **Additional context/Screenshots**

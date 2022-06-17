@@ -1,5 +1,5 @@
 ---
-Name: "⁉️ Question"
+Name: '⁉️ Question'
 About: 'Questions are welcome.'
 ---
 

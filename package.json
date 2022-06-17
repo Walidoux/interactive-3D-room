@@ -8,6 +8,7 @@
     "build": "vite build",
     "serve": "vite preview",
     "lint:prettier": "prettier --check \".\"",
+    "lint:prettier-fix": "prettier --write \".\"",
     "lint:scss": "stylelint \"**/*.scss\"",
     "lint:commit": "commitlint",
     "release": "semantic-release"

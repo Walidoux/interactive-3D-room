@@ -4,7 +4,6 @@ About: "I have a suggestion (and may want to implement it \U0001F642)!"
 Title: ''
 Labels: 'i: enhancement, i: needs triage'
 Assignees: ''
-
 ---
 
 ## Feature Request
